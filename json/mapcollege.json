@@ -1,0 +1,2501 @@
+[
+    {
+        "name": "The British College, Kathmandu",
+        "latitude": 27.6921341,
+        "longitude": 85.3195183,
+        "rating": 4.6,
+        "phone_number": "01-5970003",
+        "address": "M8R9+VRV Trade Tower, Thapathali Road, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Uniglobe College",
+        "latitude": 27.68984,
+        "longitude": 85.339821,
+        "rating": 4.6,
+        "phone_number": "985-1311179",
+        "address": "\u090f\u0928. \u0915\u0947. \u0938\u093f\u0902\u0939 \u092e\u093e\u0930\u094d\u0917, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Padmashree College",
+        "latitude": 27.6872402,
+        "longitude": 85.34783580000001,
+        "rating": 4,
+        "phone_number": "01-4112252",
+        "address": "Tinkune, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Colleges Nepal",
+        "latitude": 27.7077937,
+        "longitude": 85.32182999999999,
+        "rating": 4.4,
+        "phone_number": "01-5339740",
+        "address": "Kathmandu 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal College of Information Technology",
+        "latitude": 27.6713817,
+        "longitude": 85.3387383,
+        "rating": 4.3,
+        "phone_number": "01-5186354 ext. 5006358",
+        "address": "Balkumari Rd, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Orchid International College",
+        "latitude": 27.7022808,
+        "longitude": 85.3465647,
+        "rating": 4.3,
+        "phone_number": "01-4579744",
+        "address": "Maiti Nepal - Bijay Chowk, Behind, Prayag Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Certified College of Accountancy(CCA)- Platinum Approved ACCA College",
+        "latitude": 27.691873,
+        "longitude": 85.3308752,
+        "rating": 4.8,
+        "phone_number": "01-5245126",
+        "address": "Thapagaun, Kathmandu (200m ahead of, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal College of Management",
+        "latitude": 27.6741766,
+        "longitude": 85.3014779,
+        "rating": 4.6,
+        "phone_number": "01-5188353",
+        "address": "M8F2+MHH, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Tribhuvan University",
+        "latitude": 27.6806722,
+        "longitude": 85.28346289999999,
+        "rating": 4.1,
+        "phone_number": "01-4331076",
+        "address": "Kathmandu 46000, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Informatics College Pokhara",
+        "latitude": 28.2109762,
+        "longitude": 83.98232159999999,
+        "rating": 4.7,
+        "phone_number": "061-588115",
+        "address": "Lions Marga, Pokhara 33800, Nepal",
+        "types": [
+            "university",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Patan Multiple Campus (BCA)",
+        "latitude": 27.6793017,
+        "longitude": 85.3215338,
+        "rating": 3.8,
+        "phone_number": "01-5260330",
+        "address": "Lalitpur 44700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "King's College Nepal",
+        "latitude": 27.6890512,
+        "longitude": 85.3279961,
+        "rating": 4.3,
+        "phone_number": "01-5324520",
+        "address": "\u092c\u092c\u0930\u092e\u0939\u0932, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "N.R. College",
+        "latitude": 27.7413922,
+        "longitude": 85.3018231,
+        "rating": 3.9,
+        "phone_number": "01-4350469",
+        "address": "Tarakeshwar 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Herald College Kathmandu",
+        "latitude": 27.712059,
+        "longitude": 85.33075579999999,
+        "rating": 4.2,
+        "phone_number": "01-5970120",
+        "address": "P86J+W8X, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathmandu University School of Management",
+        "latitude": 27.6699275,
+        "longitude": 85.3338989,
+        "rating": 4.4,
+        "phone_number": "01-5186029",
+        "address": "\u092c\u093e\u0932\u0915\u0941\u092e\u093e\u0930\u0940 \u091c\u093e\u0928\u0947 \u092c\u093e\u091f\u094b, Lalitpur 44700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "The Times International College",
+        "latitude": 27.7081077,
+        "longitude": 85.32727369999999,
+        "rating": 3.9,
+        "phone_number": "01-4541163",
+        "address": "\u091a\u093e\u0930\u0916\u093e\u0932 \u0930\u094b\u0921, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Collegenp",
+        "latitude": 27.6927207,
+        "longitude": 85.32816009999999,
+        "rating": 4.7,
+        "phone_number": "985-1179881",
+        "address": "Anamnagar, Kathmandu 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Pokhara University",
+        "latitude": 28.1472375,
+        "longitude": 84.0822656,
+        "rating": 4.1,
+        "phone_number": "061-504046",
+        "address": "43WJ+VWR, Pokhara 33700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "The British College, Chakupat Campus",
+        "latitude": 27.6793373,
+        "longitude": 85.3263589,
+        "rating": 4.6,
+        "phone_number": null,
+        "address": "M8HG+QG2, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathmandu University",
+        "latitude": 27.6193566,
+        "longitude": 85.5387702,
+        "rating": 4.3,
+        "phone_number": "011-415005",
+        "address": "JG9Q+PGG, Dhulikhel 45200, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Mega College",
+        "latitude": 27.6916607,
+        "longitude": 85.3280037,
+        "rating": 3.9,
+        "phone_number": "01-5705488",
+        "address": "M8RH+M66, Daphe Marga, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "NCA College of Management",
+        "latitude": 27.6866915,
+        "longitude": 85.3374537,
+        "rating": 4.4,
+        "phone_number": "01-4790241",
+        "address": "M8PQ+M22 Anup Marga, Ekta Marga, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "SAIM College",
+        "latitude": 27.7004611,
+        "longitude": 85.33909919999999,
+        "rating": 4.5,
+        "phone_number": "984-9903922",
+        "address": "Devkota Sadak, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Dibyabhumi Multiple College",
+        "latitude": 27.688619,
+        "longitude": 85.313814,
+        "rating": 4.7,
+        "phone_number": "01-5901871",
+        "address": "Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Sunway College Kathmandu",
+        "latitude": 27.705585,
+        "longitude": 85.3343058,
+        "rating": 4.4,
+        "phone_number": "01-4531725",
+        "address": "P84M+7QG, Maiti Devi Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "ISMT College",
+        "latitude": 27.6887343,
+        "longitude": 85.3491138,
+        "rating": 4,
+        "phone_number": "01-4112122",
+        "address": "Sairam Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Prithvi Narayan Campus",
+        "latitude": 28.2400159,
+        "longitude": 83.99173189999999,
+        "rating": 4.2,
+        "phone_number": "061-576837",
+        "address": "Bhim Kali Patan Marga 1, Pokhara 33700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Open University (\u0928\u0947\u092a\u093e\u0932 \u0916\u0941\u0932\u093e \u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f)",
+        "latitude": 27.6667558,
+        "longitude": 85.3188318,
+        "rating": 4.2,
+        "phone_number": "01-5008047",
+        "address": "Kumaripati - Mahalaximisthan Rd, Lalitpur 44700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Shepherd College",
+        "latitude": 27.6890836,
+        "longitude": 85.3444158,
+        "rating": 4.6,
+        "phone_number": "01-4588274",
+        "address": "Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Modern Nepal College",
+        "latitude": 27.7207459,
+        "longitude": 85.31138849999999,
+        "rating": 4.1,
+        "phone_number": "01-4955304",
+        "address": "Sorhakhutte Bahati Pokhari, Buddha Tole Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "St. Lawrence College",
+        "latitude": 27.715402,
+        "longitude": 85.3468627,
+        "rating": 3.6,
+        "phone_number": "01-4469666",
+        "address": "Gaurighat Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "United College",
+        "latitude": 27.669218,
+        "longitude": 85.31834669999999,
+        "rating": 4.7,
+        "phone_number": "01-5438625",
+        "address": "Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Law Campus",
+        "latitude": 27.7022933,
+        "longitude": 85.319448,
+        "rating": 4.1,
+        "phone_number": "01-4225358",
+        "address": "P829+WQ8, Pradarshani Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Prime College",
+        "latitude": 27.7171507,
+        "longitude": 85.3030254,
+        "rating": 3.9,
+        "phone_number": "01-4961690",
+        "address": "Pahikwo Sadak, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Pashchimanchal Campus(WRC)",
+        "latitude": 28.2538926,
+        "longitude": 83.97641039999999,
+        "rating": 4.5,
+        "phone_number": "061-440457",
+        "address": "Lamachaur Rd, Pokhara 33700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "YETI International College",
+        "latitude": 27.6874563,
+        "longitude": 85.32981500000001,
+        "rating": 4.3,
+        "phone_number": "01-4792063",
+        "address": "Shram Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "\u092a\u0942\u0930\u094d\u0935\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u0932\u0947\u091c \u0905\u092b \u092e\u0947\u0921\u093f\u0915\u0932 \u090f\u0928\u094d\u0921 \u090f\u0932\u093e\u0907\u0921 \u0938\u093e\u0908\u0928\u094d\u0938",
+        "latitude": 26.6818698,
+        "longitude": 87.35445779999999,
+        "rating": 3.2,
+        "phone_number": "021-463701",
+        "address": "Pushpalal Chowk, Biratnagar 56600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Sanskrit University",
+        "latitude": 28.0954125,
+        "longitude": 82.3588906,
+        "rating": 4.5,
+        "phone_number": "082-400081",
+        "address": "39W5+5H6, Manpur 22412, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Youth Red Cross Circle, Nepal Commerce Campus",
+        "latitude": 27.685349,
+        "longitude": 85.3375433,
+        "rating": 4.2,
+        "phone_number": "984-5903322",
+        "address": "Minbhawan Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Theological College",
+        "latitude": 27.6591805,
+        "longitude": 85.33104519999999,
+        "rating": 4.2,
+        "phone_number": "01-5202073",
+        "address": "Lalitpur 44700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "MADAN BHANDARI MEMORIAL COLLEGE",
+        "latitude": 27.6947342,
+        "longitude": 85.3298296,
+        "rating": 4,
+        "phone_number": "01-5172175",
+        "address": "Rudmatti Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "NASA College",
+        "latitude": 27.6886725,
+        "longitude": 85.3501775,
+        "rating": 4,
+        "phone_number": "01-4112043",
+        "address": "Tinkune, Kathmandu 44600, Nepal",
+        "types": [
+            "secondary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Triton Int\u00b4l College",
+        "latitude": 27.6759074,
+        "longitude": 85.33854029999999,
+        "rating": 4.2,
+        "phone_number": "01-5104529",
+        "address": "Koteshwor - 32, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "secondary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Balkumari College",
+        "latitude": 27.6946128,
+        "longitude": 84.4267447,
+        "rating": 4.1,
+        "phone_number": "056-598827",
+        "address": "Bharatpur 44207, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "College of Applied Sciences CAS",
+        "latitude": 27.6742651,
+        "longitude": 85.3438444,
+        "rating": 4.7,
+        "phone_number": "01-5100702",
+        "address": "Tarkeshwor Mandir Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Lord Buddha Education Foundation- LBEF CAMPUS (The First IT College of Nepal)",
+        "latitude": 27.706127,
+        "longitude": 85.3332587,
+        "rating": 3.8,
+        "phone_number": "980-1110200",
+        "address": "Maiti Devi Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "GoldenGate International College",
+        "latitude": 27.7036136,
+        "longitude": 85.34021469999999,
+        "rating": 3.8,
+        "phone_number": "01-4495165",
+        "address": "Wisdom Tower, Trikuti Colony, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "IIMS College",
+        "latitude": 27.7088432,
+        "longitude": 85.32359369999999,
+        "rating": 4,
+        "phone_number": "01-4534088",
+        "address": "Dhobidhara Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "DAV College",
+        "latitude": 27.674608,
+        "longitude": 85.3087949,
+        "rating": 3.8,
+        "phone_number": "01-5533044",
+        "address": "M8F5+RGV, Lalitpur 44700, Nepal",
+        "types": [
+            "secondary_school",
+            "university",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Universal College",
+        "latitude": 27.6875327,
+        "longitude": 85.3436644,
+        "rating": 3.9,
+        "phone_number": "01-4620522",
+        "address": "M8QV+2CH, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Janamaitri Multiple Campus",
+        "latitude": 27.6916304,
+        "longitude": 85.2923888,
+        "rating": 3.9,
+        "phone_number": null,
+        "address": "M7RR+MX7, \u0906\u0935\u093e\u0938 \u0938\u0921\u0915, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "AVS College",
+        "latitude": 27.6911996,
+        "longitude": 85.3508366,
+        "rating": 4.9,
+        "phone_number": "01-4117967",
+        "address": "Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Reed College",
+        "latitude": 27.721917,
+        "longitude": 85.2837467,
+        "rating": 4.5,
+        "phone_number": "01-4890465",
+        "address": "P7CM+QG4, Nagarjun 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathmandu College of Central State",
+        "latitude": 27.6967352,
+        "longitude": 85.2952282,
+        "rating": 3.9,
+        "phone_number": "01-5378965",
+        "address": "M7WW+M3X, Kathmandu 44600, Nepal",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Mahendra Ratna Campus",
+        "latitude": 27.7034405,
+        "longitude": 85.3003966,
+        "rating": 3.5,
+        "phone_number": "01-4247782",
+        "address": "Tahachal Campus, Museum Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Divya Gyan College",
+        "latitude": 27.7073715,
+        "longitude": 85.3220137,
+        "rating": 4.4,
+        "phone_number": "01-5346070",
+        "address": "Putalisadak Kathmandu-29, Kathmandu, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepathya College",
+        "latitude": 27.6284849,
+        "longitude": 83.4704982,
+        "rating": 4.5,
+        "phone_number": "071-562537",
+        "address": "Manigram Tilottama-5, 32903, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Agriculture and Forestry University",
+        "latitude": 27.6505625,
+        "longitude": 84.3503125,
+        "rating": 4.1,
+        "phone_number": "056-520602",
+        "address": "Bharatpur 44200, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal College of Travel and Tourism Management - NCTTM",
+        "latitude": 27.7179977,
+        "longitude": 85.3242748,
+        "rating": 4.6,
+        "phone_number": "01-4540930",
+        "address": "Trishaktimarg, Uttardhoka, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "NIMS College",
+        "latitude": 27.667037,
+        "longitude": 85.3277833,
+        "rating": 4,
+        "phone_number": "01-5438017",
+        "address": "M88F+CG9 Kanibahal, Lalitpur 44700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Engineering College",
+        "latitude": 27.7109329,
+        "longitude": 85.4156106,
+        "rating": 4.2,
+        "phone_number": "01-5221006",
+        "address": "Bhaktapur Road, Changunarayan 44801, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Institute of Engineering, Pulchowk Campus",
+        "latitude": 27.6810969,
+        "longitude": 85.31843409999999,
+        "rating": 4.4,
+        "phone_number": "01-5543078",
+        "address": "M8MC+54H, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "ACME Engineering College",
+        "latitude": 27.7080211,
+        "longitude": 85.2844258,
+        "rating": 4,
+        "phone_number": "01-5382962",
+        "address": "P75M+6Q3, Museum Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathmandu Engineering College",
+        "latitude": 27.6991505,
+        "longitude": 85.2971403,
+        "rating": 3.8,
+        "phone_number": "01-4284902",
+        "address": "Ganeshman Singh Rd, Kathmandu 44614, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Janakpur Engineering College",
+        "latitude": 27.686685,
+        "longitude": 85.31243649999999,
+        "rating": 3.7,
+        "phone_number": "01-5435822",
+        "address": "Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "IOE, Thapathali Campus",
+        "latitude": 27.6941498,
+        "longitude": 85.3190631,
+        "rating": 4.4,
+        "phone_number": "01-4246465",
+        "address": "Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Purwanchal Engineering Campus(ERC)",
+        "latitude": 26.7929597,
+        "longitude": 87.29235640000002,
+        "rating": 4.3,
+        "phone_number": "025-526304",
+        "address": "Gangalal Marg Tinkune, Dharan 56700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Engineering College - BDH",
+        "latitude": 27.6684734,
+        "longitude": 85.3239715,
+        "rating": 4.5,
+        "phone_number": "01-5548585",
+        "address": "City Office, 44700, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Khwopa College of Engineering",
+        "latitude": 27.6709871,
+        "longitude": 85.4392,
+        "rating": 4.3,
+        "phone_number": "01-5122098",
+        "address": "Libali, Bhaktapur - 8, Bhaktapur 44800, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "National College Of Engineering",
+        "latitude": 27.6557856,
+        "longitude": 85.3202575,
+        "rating": 4,
+        "phone_number": "01-5151387",
+        "address": "M84C+73R, Talchhikhel Bishal Chowk Marg, Lalitpur 44700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Everest Engineering College",
+        "latitude": 27.68396,
+        "longitude": 85.3066834,
+        "rating": 3.8,
+        "phone_number": "01-5420742",
+        "address": "Pawan Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Oxford Advance Engineering College",
+        "latitude": 27.698761,
+        "longitude": 85.2848961,
+        "rating": 4.7,
+        "phone_number": "985-1364580",
+        "address": "P.O.Box:508, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kantipur Engineering College",
+        "latitude": 27.6372696,
+        "longitude": 85.3331683,
+        "rating": 4.2,
+        "phone_number": "01-5571005",
+        "address": "Lalitpur 44700, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Himalaya College of Engineering",
+        "latitude": 27.6769725,
+        "longitude": 85.3327424,
+        "rating": 3.7,
+        "phone_number": "01-5554297",
+        "address": "M8GM+R42, Chyasal-9, Lalitpur 44700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Purbanchal University School of Engineering - PUSOE",
+        "latitude": 26.4779412,
+        "longitude": 87.27964399999999,
+        "rating": 4.2,
+        "phone_number": "021-461270",
+        "address": "Kanya Marga Rd, Biratnagar 56613, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Pokhara Engineering College",
+        "latitude": 28.2110515,
+        "longitude": 83.9771545,
+        "rating": 3.9,
+        "phone_number": "061-531209",
+        "address": "6X6G+CVC, Pokhara 33700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Sagarmatha Engineering College",
+        "latitude": 27.68818,
+        "longitude": 85.3026175,
+        "rating": 3.9,
+        "phone_number": "01-5427274",
+        "address": "M8Q3+729, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Valley College of Engineering",
+        "latitude": 27.6783125,
+        "longitude": 85.3414375,
+        "rating": 3.9,
+        "phone_number": "01-4612474",
+        "address": "Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "College of Biomedical Engineering and Applied Sciences",
+        "latitude": 27.690032,
+        "longitude": 85.31251689999999,
+        "rating": 4.2,
+        "phone_number": "01-5911894",
+        "address": "Kupondole Rd 1, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Department of Electrical, Electronics and Computer Engineering",
+        "latitude": 27.6818583,
+        "longitude": 85.31875939999999,
+        "rating": 4.8,
+        "phone_number": null,
+        "address": "M8J9+PGR, Pulchowk Rd, Lalitpur 44700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Eastern College of Engineering",
+        "latitude": 26.4716758,
+        "longitude": 87.28693609999999,
+        "rating": 4.1,
+        "phone_number": "021-526925",
+        "address": "F7CP+MQF, Radhakrishna Marg, Biratnagar 56613, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Oxford College of Engineering and Management",
+        "latitude": 27.7023597,
+        "longitude": 84.41893739999999,
+        "rating": 4.2,
+        "phone_number": "078-501078",
+        "address": "Shastri Marg, Gaindakot 44200, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Universal Engineering & Science College / \u092f\u0941\u0928\u093f\u092d\u0930\u094d\u0938\u0932 \u0907\u0928\u094d\u091c\u093f\u0928\u093f\u092f\u0930\u093f\u0919 \u090f\u0923\u094d\u0921 \u0938\u093e\u0907\u0928\u094d\u0938 \u0915\u0932\u0947\u091c",
+        "latitude": 27.6797679,
+        "longitude": 85.3264418,
+        "rating": 3.8,
+        "phone_number": "01-5260419",
+        "address": "137/20, Manido Marg 11, Lalitpur, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Lumbini Engineering College",
+        "latitude": 27.6056842,
+        "longitude": 83.4684573,
+        "rating": 4,
+        "phone_number": "071-561030",
+        "address": "JF49+79G, Tilottama 32903, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Balaju School Of Engineering & Technology",
+        "latitude": 27.7300127,
+        "longitude": 85.30106239999999,
+        "rating": 4.2,
+        "phone_number": "01-4350213",
+        "address": "P8J2+2C3, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kantipur City College",
+        "latitude": 27.703777,
+        "longitude": 85.3231442,
+        "rating": 4.1,
+        "phone_number": "986-0352875",
+        "address": "Lalupate Marga, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Himalayan College of Geomatic Engineering and Land Resource Management. (GIT)",
+        "latitude": 27.6872316,
+        "longitude": 85.32359470000002,
+        "rating": 4.4,
+        "phone_number": "01-5909491",
+        "address": "\u0925\u093e\u092a\u093e\u0925\u0932\u0940 \u0964, Shiva marga, Kathmandu 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "College of IT & Engineering",
+        "latitude": 27.6846805,
+        "longitude": 85.34525649999999,
+        "rating": 3.9,
+        "phone_number": "01-4111503",
+        "address": "Subhidanagar, Tinkune 32, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "N.I.E. Nepal Institute of Engineering Pvt. Ltd.",
+        "latitude": 27.6876077,
+        "longitude": 85.3365274,
+        "rating": 4.7,
+        "phone_number": "985-1279796",
+        "address": "Himalayan Bank, New - Baneswor (opposite of Samsad Bhawan, Kathmandu 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kantipur International College",
+        "latitude": 27.6883053,
+        "longitude": 85.3313349,
+        "rating": 4.2,
+        "phone_number": "980-1977683",
+        "address": "M8QJ+8GG, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Hillside College of Engineering",
+        "latitude": 27.6743225,
+        "longitude": 85.34234119999999,
+        "rating": 3.6,
+        "phone_number": "01-5147207",
+        "address": "M8FR+PWG, Kriti Marg, Kathmandu 44604, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Himalayan Institute of Science & Technology",
+        "latitude": 27.6626541,
+        "longitude": 85.3326967,
+        "rating": 4.3,
+        "phone_number": "01-5202726",
+        "address": "M8CF+5H9, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Advanced College of Engg. Management",
+        "latitude": 27.6887006,
+        "longitude": 85.289806,
+        "rating": 3.9,
+        "phone_number": "01-5234187",
+        "address": "M7QQ+FHQ, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Lalitpur Engineering College",
+        "latitude": 27.6808123,
+        "longitude": 85.3256674,
+        "rating": 3.8,
+        "phone_number": "01-5260215",
+        "address": "Lalitpur 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Central Engineering College, Janakpur",
+        "latitude": 26.731591,
+        "longitude": 85.91420920000002,
+        "rating": 4,
+        "phone_number": "980-1048617",
+        "address": "Dhulikhel Sindhuli Bhittamod Rajmarg 89, Janakpur 45600, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "United Technical College",
+        "latitude": 27.6912501,
+        "longitude": 84.4440903,
+        "rating": 3.8,
+        "phone_number": "056-593931",
+        "address": "Bharatpur-11, U-TEC Chowk, Bharatpur 44200, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Central Engineering Campus",
+        "latitude": 27.6670935,
+        "longitude": 85.3458837,
+        "rating": 4.1,
+        "phone_number": "01-5202414",
+        "address": "\u092c\u094b\u091c\u0947 \u092a\u094b\u0916\u0930\u0940 \u092e\u093e\u0930\u094d\u0917, Mahalaxmi 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Rapti Engineering College",
+        "latitude": 28.0306332,
+        "longitude": 82.4521036,
+        "rating": 4.3,
+        "phone_number": "082-562601",
+        "address": "2FJ2+7R5, Sarra - Nainawar Rd, Ghorahi 22400, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Balaju School of Engg & Technology - Block B",
+        "latitude": 27.7272109,
+        "longitude": 85.2988008,
+        "rating": 4.8,
+        "phone_number": "01-4350213",
+        "address": "44600, Kathmandu, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Gandaki College of Engineering and Science",
+        "latitude": 28.2589549,
+        "longitude": 83.97057009999999,
+        "rating": 4.3,
+        "phone_number": "061-443866",
+        "address": "Lamachaur Rd 16, Pokhara 33700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "College of Engineering & Management",
+        "latitude": 28.0512138,
+        "longitude": 81.61636089999999,
+        "rating": 3.7,
+        "phone_number": "081-526086",
+        "address": "3J28+FGQ, Nepalgunj 21900, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Khwopa Engineering College(Block A)",
+        "latitude": 27.6708826,
+        "longitude": 85.43999409999999,
+        "rating": 4.3,
+        "phone_number": "01-5122094",
+        "address": "MCCQ+9XQ Libali 8, Bhaktapur 44800, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathford College of Engineering & Management",
+        "latitude": 27.6708425,
+        "longitude": 85.33997959999999,
+        "rating": 3.2,
+        "phone_number": "01-5201241",
+        "address": "Ring Rd, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Cosmos College of Management and Technology",
+        "latitude": 27.6558305,
+        "longitude": 85.32075569999999,
+        "rating": 3.9,
+        "phone_number": "01-5151419",
+        "address": "M84C+87R, Tikabhairab Sadak, Lalitpur 44700, Nepal",
+        "types": [
+            "university",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Ritz College",
+        "latitude": 27.6720743,
+        "longitude": 85.3403853,
+        "rating": 4.4,
+        "phone_number": "01-5186183",
+        "address": "M8CR+R6R, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "\u090f\u0936\u093f\u092f\u0928 \u0907\u0928\u094d\u091c\u093f\u0928\u093f\u092f\u0930\u093f\u0919 \u0915\u0932\u0947\u091c",
+        "latitude": 27.6627965,
+        "longitude": 85.3328003,
+        "rating": 3.5,
+        "phone_number": "01-5202726",
+        "address": "Lalitpur 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kumari Engineering College",
+        "latitude": 27.7223177,
+        "longitude": 85.35942349999999,
+        "rating": 5,
+        "phone_number": null,
+        "address": "Amitava Buddha Marg, Tushal Tushal-Mahankal Road, Boudha Post Box 10556, Kathmandu, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Engineering College (nec-CPS)",
+        "latitude": 27.6684835,
+        "longitude": 85.3239579,
+        "rating": 4.3,
+        "phone_number": "01-5530158",
+        "address": "Prayag Pokhari Marg, Lalitpur 44600, Nepal",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathford International College",
+        "latitude": 27.673556,
+        "longitude": 85.3385867,
+        "rating": 3.7,
+        "phone_number": "01-5186046",
+        "address": "M8FQ+CFR, Lalitpur 44700, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Chitwan Engineering Campus",
+        "latitude": 27.6518283,
+        "longitude": 84.3471962,
+        "rating": 4.3,
+        "phone_number": null,
+        "address": "Bharatpur 44200, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathmandu University School of engineering",
+        "latitude": 27.6196898,
+        "longitude": 85.5394458,
+        "rating": 5,
+        "phone_number": null,
+        "address": "Department of Engineering, Dhulikhel 45200, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathmandu Institute of Technology (KIT College)",
+        "latitude": 27.7509724,
+        "longitude": 85.32322099999999,
+        "rating": 3.7,
+        "phone_number": "01-5159255",
+        "address": "Milan Tole, Tokha Road, Kathmandu GPO Box No. 11172, Kathmandu 11172, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Baijnath Engineering College",
+        "latitude": 28.9688367,
+        "longitude": 80.1754369,
+        "rating": 4.6,
+        "phone_number": "099-522526",
+        "address": "X59G+G3P, AH2, Bhimdatta 10400, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Himalayan WhiteHouse International College, Putalisadak",
+        "latitude": 27.7000198,
+        "longitude": 85.32059919999999,
+        "rating": 4,
+        "phone_number": "01-5326284",
+        "address": "\u0930\u093e\u092e\u0936\u093e\u0939 \u092a\u0925, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Polytechnic Institute",
+        "latitude": 27.6894851,
+        "longitude": 84.4256089,
+        "rating": 4.2,
+        "phone_number": "056-572417",
+        "address": "Mahendra Hwy, Bharatpur 44207, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Pokhara University- School Of Engineering",
+        "latitude": 28.1442109,
+        "longitude": 84.0839333,
+        "rating": 4.3,
+        "phone_number": "061-561741",
+        "address": "43VM+MHP, Lekhnath 33700, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathmandu University School of Medical Sciences",
+        "latitude": 27.607263,
+        "longitude": 85.5484232,
+        "rating": 4.6,
+        "phone_number": "011-490497",
+        "address": "Banepa-Sindhuli-Bardibaas Highway, Panauti 45209, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Medical College & Teaching Hospital",
+        "latitude": 27.7333611,
+        "longitude": 85.3805095,
+        "rating": 3.6,
+        "phone_number": "01-4911008",
+        "address": "Kathmandu 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathmandu Medical College",
+        "latitude": 27.6958023,
+        "longitude": 85.35333,
+        "rating": 3.7,
+        "phone_number": "01-4469064",
+        "address": "Baburam Acharya Road, Kathmandu 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "\u092e\u0928\u093f\u092a\u093e\u0932 \u0915\u0932\u0947\u091c \u0905\u092b \u092e\u0947\u0921\u093f\u0915\u0932 \u0938\u093e\u0907\u0928\u094d\u0938\u0947\u0938 (\u0926\u0940\u092a \u0915\u094d\u092f\u093e\u092e\u094d\u092a\u0938)",
+        "latitude": 28.2518101,
+        "longitude": 83.9866818,
+        "rating": 4.2,
+        "phone_number": "061-440387",
+        "address": "Deep Heights-16, Pokhara 33700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Laboratory",
+        "latitude": 27.6836007,
+        "longitude": 84.43616659999999,
+        "rating": 3.8,
+        "phone_number": "056-524203",
+        "address": "College of Medical Science, CMS, Bharatpur 44200, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Janaki Medical College and Teaching Hospital",
+        "latitude": 26.8152628,
+        "longitude": 85.95299659999999,
+        "rating": 4.1,
+        "phone_number": "01-4435957",
+        "address": "Janakpur 45600, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "National Academy for Medical Sciences",
+        "latitude": 27.7012184,
+        "longitude": 85.3419419,
+        "rating": 4,
+        "phone_number": "01-4566465",
+        "address": "\u0938\u0941\u0930\u094d\u092f \u092c\u093f\u0915\u0930\u094d\u200d\u092e \u091c\u094d\u091e\u0935\u093e\u0932\u0940 \u092e\u093e\u0930\u094d\u0917, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Universal College of Medical Sciences and Teaching Hospital (UCMS)",
+        "latitude": 27.4896102,
+        "longitude": 83.4486184,
+        "rating": 3.4,
+        "phone_number": "071-522896",
+        "address": "Siddharthanagar 32900, Nepal",
+        "types": [
+            "hospital",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Chitwan Medical College",
+        "latitude": 27.6854149,
+        "longitude": 84.43094099999999,
+        "rating": 3.9,
+        "phone_number": "980-2932933",
+        "address": "Bharatpur 44200, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepalese Army Institute of Health Sciences (NAIHS)",
+        "latitude": 27.7266596,
+        "longitude": 85.2887361,
+        "rating": 4.4,
+        "phone_number": "01-4881259",
+        "address": "Bhandarkhal, Syanobharyang, Nearby Mahadev Temple, Devnagar, Maitri Tole, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kantipur College of Medical Science",
+        "latitude": 27.7074974,
+        "longitude": 85.2833588,
+        "rating": 4.4,
+        "phone_number": "01-4279723",
+        "address": "P74M+X8X, Ring Rd, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "NATIONAL MEDICAL COLLEGE",
+        "latitude": 27.01169,
+        "longitude": 84.8954801,
+        "rating": 3.4,
+        "phone_number": "051-591014",
+        "address": "Bhediyahi 15, Birgunj 44500, Nepal",
+        "types": [
+            "hospital",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepalgunj Medical College Basic Science Campus",
+        "latitude": 28.2775979,
+        "longitude": 81.66172259999999,
+        "rating": 3.8,
+        "phone_number": "972-3001626",
+        "address": "Nepalgunj Medical College chisapani Banke Baijanath 1 Chisapani, 00977, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "KIST Medical College - Basic Science Block",
+        "latitude": 27.6647031,
+        "longitude": 85.3338849,
+        "rating": 3.7,
+        "phone_number": "01-5201682",
+        "address": "M86M+H4W, \u0907\u092e\u093e\u0921\u094b\u0932 \u092e\u093e\u0930\u094d\u0917, Lalitpur 44700, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "UNIVERSAL COLLEGE OF MEDICAL SCIENCES & UCMS COLLEGE OF DENTAL SURGERY",
+        "latitude": 27.707267,
+        "longitude": 85.3183629,
+        "rating": 4.6,
+        "phone_number": "01-4240384",
+        "address": "P849+W85, Binayak Marg, Kathmandu 44605, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathmandu Medical College",
+        "latitude": 27.6872117,
+        "longitude": 85.4082908,
+        "rating": 4.3,
+        "phone_number": "01-4476152",
+        "address": "Basic Science Complex, Saraswotikhel Rd, Bhaktapur 44802, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepalgunj Medical College Teaching Hospital",
+        "latitude": 28.1983955,
+        "longitude": 81.6778097,
+        "rating": 3.8,
+        "phone_number": "081-540405",
+        "address": "5MXH+943, Kohalpur 21904, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "KIST Medical College Teaching Hospital",
+        "latitude": 27.6629428,
+        "longitude": 85.3349745,
+        "rating": 3.1,
+        "phone_number": "01-5201496",
+        "address": "KIST Hospital Road, 44700, Nepal",
+        "types": [
+            "hospital",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "People's Medical College Pvt. Ltd.",
+        "latitude": 27.7242937,
+        "longitude": 85.30645299999999,
+        "rating": 4.4,
+        "phone_number": "01-4358937",
+        "address": "P8F4+QJ2, Naya Bazaar Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Medical College Basic Sciences Building",
+        "latitude": 27.7317464,
+        "longitude": 85.3774387,
+        "rating": 3.8,
+        "phone_number": "01-4911008",
+        "address": "Attarkhel, Jorpati-7 Attarkhel Aarubari, 13344, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Devdaha Medical College & Research Institute Pvt. Ltd",
+        "latitude": 27.6472827,
+        "longitude": 83.5388337,
+        "rating": 3.7,
+        "phone_number": "071-403001",
+        "address": "Devdaha Municipality 32907, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Gandaki Medical College",
+        "latitude": 27.7082128,
+        "longitude": 85.3177975,
+        "rating": 3.8,
+        "phone_number": "01-2297251",
+        "address": "P859+74P, Kulratna Marg, Kathmandu 44605, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Lumbini Medical College",
+        "latitude": 27.8445121,
+        "longitude": 83.5439122,
+        "rating": 4.2,
+        "phone_number": "075-411201 ext. 411202",
+        "address": "H 10, Tansen 32500, Nepal",
+        "types": [
+            "hospital",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Manmohan Memorial Institute of Health Sciences",
+        "latitude": 27.6977709,
+        "longitude": 85.2899939,
+        "rating": 3.5,
+        "phone_number": "01-5908745",
+        "address": "M7XQ+4X9, Kathmandu 44614, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nobel Medical College Teaching Hospital",
+        "latitude": 26.4896614,
+        "longitude": 87.27022679999999,
+        "rating": 3.9,
+        "phone_number": "021-466735",
+        "address": "Kanchanbari, Biratnagar Metropolitan City\u2013 4, Biratnagar 56700, Nepal",
+        "types": [
+            "hospital",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Maharajgunj Medical Campus",
+        "latitude": 27.7341324,
+        "longitude": 85.3296994,
+        "rating": 4.5,
+        "phone_number": "01-4522971",
+        "address": "P8MH+MV4, Maharajgunj Sadak, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Sanjeevani College of Medical Sciences",
+        "latitude": 27.6774938,
+        "longitude": 83.4651148,
+        "rating": 4.4,
+        "phone_number": "071-438654",
+        "address": "MFG8+X2W, Butwal 32907, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Birat Medical College Pre Clinical Building",
+        "latitude": 26.5242592,
+        "longitude": 87.2746453,
+        "rating": 4.3,
+        "phone_number": "021-421063",
+        "address": "G7FF+PV2, Tankisinuwari 56613, Nepal",
+        "types": [
+            "hospital",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Birat Medical College Teaching Hospital",
+        "latitude": 26.5235263,
+        "longitude": 87.279027,
+        "rating": 3.7,
+        "phone_number": "021-423182",
+        "address": "Tankisinuwari 56613, Nepal",
+        "types": [
+            "hospital",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Vinayak College of Health Science",
+        "latitude": 27.7042642,
+        "longitude": 85.3433687,
+        "rating": 4.1,
+        "phone_number": "01-4564505",
+        "address": "P83V+P85, Surya Bikram Gyawali Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "NAME Institute",
+        "latitude": 27.7003808,
+        "longitude": 85.32077609999999,
+        "rating": 3.9,
+        "phone_number": "01-5331144",
+        "address": "Ram Shah Path, Kathmandu 44700, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Gandaki Medical College Basic Science Complex",
+        "latitude": 28.1716869,
+        "longitude": 84.04304309999999,
+        "rating": 3.7,
+        "phone_number": null,
+        "address": "52CV+M6F, Road, Lekhnath 33700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Asian College of Medical Science & Technology",
+        "latitude": 27.684668,
+        "longitude": 85.32234249999999,
+        "rating": 4.4,
+        "phone_number": "01-5526836",
+        "address": "M8MC+VW8, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Gandaki Medical College",
+        "latitude": 28.2111683,
+        "longitude": 83.9870949,
+        "rating": 3.2,
+        "phone_number": "061-538595",
+        "address": "Nayabazar Rd, Pokhara 33700, Nepal",
+        "types": [
+            "hospital",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "\u0928\u093f\u092e\u094d\u0938\u094d\u091f \u0915\u0932\u0947\u091c",
+        "latitude": 27.6682681,
+        "longitude": 85.3370245,
+        "rating": 3.8,
+        "phone_number": "01-5538017",
+        "address": "Harit Colony Street 1, Lalitpur 44600, Nepal",
+        "types": [
+            "school",
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "mbbs in nepal",
+        "latitude": 27.7058421,
+        "longitude": 85.31966299999999,
+        "rating": 4.6,
+        "phone_number": "984-9607783",
+        "address": "P849+8VM, Dharm chakra Gali, Kathmandu 44600, Nepal",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "National Medical College Teaching Hospital",
+        "latitude": 27.0116704,
+        "longitude": 84.89553260000001,
+        "rating": 3.8,
+        "phone_number": "051-591014",
+        "address": "Bhediyahi 15, Birgunj 44300, Nepal",
+        "types": [
+            "hospital",
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "B & B Medical Institute",
+        "latitude": 27.6648804,
+        "longitude": 85.32977629999999,
+        "rating": 3.8,
+        "phone_number": "01-5202152",
+        "address": "M87J+C23, Ring Rd, Lalitpur 44700, Nepal",
+        "types": [
+            "point_of_interest",
+            "health",
+            "establishment"
+        ]
+    },
+    {
+        "name": "\u092a\u093e\u091f\u0928 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e\u0928",
+        "latitude": 27.6685619,
+        "longitude": 85.3196792,
+        "rating": 4,
+        "phone_number": "01-5522295",
+        "address": "Patan Hospital, Satdobato Rd, 44700, Lalitpur, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathmandu School of Medical Technology",
+        "latitude": 27.7060278,
+        "longitude": 85.3189695,
+        "rating": 4.5,
+        "phone_number": "01-4466313",
+        "address": "P849+CJ6, Pashupati Sadak, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Yeti Health Science Academy",
+        "latitude": 27.7355888,
+        "longitude": 85.3280724,
+        "rating": 3.4,
+        "phone_number": "01-4528349",
+        "address": "P8PH+66W, Kathmandu 44606, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Dean's office, Faculty of Medical and Allied Sciences (FOMAS), Purbanchal University, Gothgaun, Nepal",
+        "latitude": 26.6802383,
+        "longitude": 87.3646474,
+        "rating": 4,
+        "phone_number": "021-425007",
+        "address": "Koshi Haraicha 56600, Nepal",
+        "types": [
+            "university",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "School of Medical Sciences (SMS)",
+        "latitude": 27.7238263,
+        "longitude": 85.29962189999999,
+        "rating": 3.9,
+        "phone_number": "01-4381480",
+        "address": "P7FX+GRQ, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Tribhuwan University Institute of medicine Maharajgunj Medical Campus",
+        "latitude": 27.734227,
+        "longitude": 85.3293544,
+        "rating": 4.2,
+        "phone_number": "01-4423223",
+        "address": "P8MH+MR7 \u092e\u0939\u093e\u0930\u093e\u091c\u0917\u0902\u091c \u0939\u0941\u0932\u093e\u0915, Kathmandu 44600, Nepal",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Manmohan Memorial Institute of Medical Sciences",
+        "latitude": 27.6948068,
+        "longitude": 85.2384934,
+        "rating": 3.6,
+        "phone_number": "01-5917324",
+        "address": "M6VQ+V9V, Chandragiri 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "School of Health Science, Bharatpur, Chitwan",
+        "latitude": 27.6836943,
+        "longitude": 84.4371791,
+        "rating": 3.8,
+        "phone_number": "056-524226",
+        "address": "MCMP+FVF, Bharatpur 44200, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nobel College",
+        "latitude": 27.6981358,
+        "longitude": 85.346994,
+        "rating": 3.7,
+        "phone_number": "01-4110590",
+        "address": "Sinamangal Rd, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "National Multiple College",
+        "latitude": 27.668529,
+        "longitude": 85.31292289999999,
+        "rating": 3.4,
+        "phone_number": "01-5538025",
+        "address": "M897+C56, Lalitpur 44700, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Institute of Health Sciences (Stupa College)",
+        "latitude": 27.7217251,
+        "longitude": 85.374259,
+        "rating": 3.9,
+        "phone_number": "01-4917557",
+        "address": "Jorpati-Sankhu Rd, Gokarneshwor 44600, Nepal",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Chitwan Medical College Basic Science Block",
+        "latitude": 27.6440729,
+        "longitude": 84.3837728,
+        "rating": 3,
+        "phone_number": null,
+        "address": "J9VM+JFH, Bharatpur 44200, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Karnali College of Health Sciences",
+        "latitude": 27.7044023,
+        "longitude": 85.3431805,
+        "rating": 4,
+        "phone_number": "01-4470205",
+        "address": "P83V+Q74, \u0938\u0941\u0930\u094d\u092f \u092c\u093f\u0915\u094d\u0930\u092e \u091c\u094d\u091e\u0935\u093e\u0932\u0940 \u092e\u093e\u0930\u094d\u0917, Kathmandu 44600, Nepal",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Oasis Medical College",
+        "latitude": 27.6779131,
+        "longitude": 84.449265,
+        "rating": 3.9,
+        "phone_number": "056-530577",
+        "address": "MCHX+5P6, Rhino Taal Rd, Bharatpur 44207, Nepal",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Dadeldhura paramedical college",
+        "latitude": 29.3499406,
+        "longitude": 80.6047271,
+        "rating": 5,
+        "phone_number": null,
+        "address": "Team Hospital Dadeldhura Pokhara, H14, Amargadhi 10300, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "The Himal Institute of Health Science",
+        "latitude": 27.0166554,
+        "longitude": 84.8989417,
+        "rating": 4.1,
+        "phone_number": "981-2291096",
+        "address": "2V8X+MH6 The Himal Institute, Road, Birgunj 44400, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Sanjivani Institute Of Health Sciences",
+        "latitude": 28.0392698,
+        "longitude": 82.4902335,
+        "rating": 5,
+        "phone_number": "082-563481",
+        "address": "2FQR+P35, Unnamed Road, Ghorahi 22400, Nepal",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "NIMST College",
+        "latitude": 27.6693058,
+        "longitude": 85.3374187,
+        "rating": 0,
+        "phone_number": "01-5204277",
+        "address": "Ring Rd 44600, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Alka institute of medical science",
+        "latitude": 27.6760031,
+        "longitude": 85.31001479999999,
+        "rating": 0,
+        "phone_number": "980-9738900",
+        "address": "M8G5+CX5, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Chitwan Medical College Teaching Hospital",
+        "latitude": 27.6854141,
+        "longitude": 84.4309409,
+        "rating": 3.9,
+        "phone_number": "056-432933",
+        "address": "BHARATPUR 10, 44200, Nepal",
+        "types": [
+            "hospital",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Alka Health Institute College",
+        "latitude": 27.676009,
+        "longitude": 85.3099502,
+        "rating": 4.3,
+        "phone_number": "01-5428957",
+        "address": "kicc Rd, Lalitpur 44600, Nepal",
+        "types": [
+            "university",
+            "hospital",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Nepal Ayurved Medical College",
+        "latitude": 26.9958194,
+        "longitude": 84.8614776,
+        "rating": 4.4,
+        "phone_number": "051-529373",
+        "address": "XVW6+8HH, Birgunj 44300, Nepal",
+        "types": [
+            "university",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Global College of Management",
+        "latitude": 27.7000159,
+        "longitude": 85.3395216,
+        "rating": 4.3,
+        "phone_number": "01-5970316",
+        "address": "P82Q+7W8 Mid, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Thames International College",
+        "latitude": 27.701392,
+        "longitude": 85.3419578,
+        "rating": 4.1,
+        "phone_number": "01-5971224",
+        "address": "\u0938\u0941\u0930\u094d\u092f \u092c\u093f\u0915\u0930\u094d\u200d\u092e \u091c\u094d\u091e\u0935\u093e\u0932\u0940 \u092e\u093e\u0930\u094d\u0917, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Kathmandu Model College (KMC)",
+        "latitude": 27.7065564,
+        "longitude": 85.3189352,
+        "rating": 3.8,
+        "phone_number": "01-5358983",
+        "address": "Bag Bazar Sadak, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "National College of Computer Studies",
+        "latitude": 27.7147262,
+        "longitude": 85.3089294,
+        "rating": 3.9,
+        "phone_number": "01-5351711",
+        "address": "Paknajol Marg, Kathmandu 21010, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Damak Multiple Campus",
+        "latitude": 26.6585757,
+        "longitude": 87.6858544,
+        "rating": 4,
+        "phone_number": "023-580132",
+        "address": "AH2 Subidar Dambar Bahadur Marg, Damak 57217, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Padmakanya Multiple Campus",
+        "latitude": 27.7058125,
+        "longitude": 85.3208125,
+        "rating": 4,
+        "phone_number": "01-5324149",
+        "address": "P84C+88 Kathmandu, 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Mahendra Multiple Campus, Nepalgunj",
+        "latitude": 28.0388746,
+        "longitude": 81.6105314,
+        "rating": 3.9,
+        "phone_number": "081-520278",
+        "address": "2JQ6+H6G, Nepalgunj 21900, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Sukuna Multiple Campus Sundarharaincha Morang",
+        "latitude": 26.6632754,
+        "longitude": 87.3887663,
+        "rating": 4.2,
+        "phone_number": "021-545617",
+        "address": "M97Q+P25, Koshi Haraicha 56600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Xavier International College",
+        "latitude": 27.7140748,
+        "longitude": 85.33728289999999,
+        "rating": 3.5,
+        "phone_number": "01-4439471",
+        "address": "Kalopul, Kathmandu 44601, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Tribhuvan Multiple Campus",
+        "latitude": 27.8650253,
+        "longitude": 83.5457143,
+        "rating": 3.6,
+        "phone_number": null,
+        "address": "VG8W+278, Tansen 32500, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Lumbini Adarsha Degree College",
+        "latitude": 27.640691,
+        "longitude": 84.12999300000001,
+        "rating": 4.3,
+        "phone_number": "078-540405",
+        "address": "Kawasoti, 33000, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Jana Adarsha Multiple Campus",
+        "latitude": 27.607283,
+        "longitude": 84.61471519999999,
+        "rating": 4.1,
+        "phone_number": "056-419023",
+        "address": "JJ47+WV8, Birendranagar 44202, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Thakur Ram Multiple Campus",
+        "latitude": 27.01281,
+        "longitude": 84.8677685,
+        "rating": 4,
+        "phone_number": "051-522187",
+        "address": "2V78+Q4G, 44300, Birgunj 44300, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "National Integrated College",
+        "latitude": 27.705404,
+        "longitude": 85.3266692,
+        "rating": 4.1,
+        "phone_number": "01-4017603",
+        "address": "Dilli Bazar Height Marg, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "New Millennium College",
+        "latitude": 27.7288764,
+        "longitude": 85.34554469999999,
+        "rating": 4,
+        "phone_number": "01-4518585",
+        "address": "Ringroad, Ring Rd, Kathmandu 44602, Nepal",
+        "types": [
+            "university",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Classic College International",
+        "latitude": 27.7024223,
+        "longitude": 85.3494194,
+        "rating": 4.2,
+        "phone_number": "01-4110135",
+        "address": "P82X+XQ7, Buttisputali, \u0935\u093f\u091c\u092f \u091a\u094b\u0915, Kathmandu 44600, Nepal",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    }
+]
